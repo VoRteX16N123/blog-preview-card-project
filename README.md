@@ -18,10 +18,12 @@ This is my solution to the [Blog preview card challenge on Frontend Mentor](http
 
 ### Screenshot
 
+![](./screenshots/solution-screenshot.png)
+
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/VoRteX16N123/blog-preview-card-project)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/VoRteX16N123/blog-preview-card-project]
+- Live Site URL: [https://vortex16n123.github.io/blog-preview-card-project/]
 
 ## My process
 
