@@ -88,7 +88,7 @@ body{
 
   display: flex;
   flex-direction: column;
-  min-height: 85vh;
+  min-height: 100vh;
   place-content: center;
   min-height: 85vh;
   margin: 1rem;
@@ -110,7 +110,7 @@ main{
   height: auto;
   border: 1px solid black;
   box-shadow: 10px 10px;
-  margin-top: 50%;
+  margin-top: 37%;
 }
 
 .card__content{
