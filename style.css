@@ -85,10 +85,18 @@ body{
   font-weight: var(--fw-regular);
   font-size: 0.875rem;
 
-  display: grid;
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;;
   place-content: center;
   min-height: 85vh;
   margin: 1rem;
+  align-items: center;
+  
+}
+
+main{
+  flex-grow: 1;
 }
 
 .card{
@@ -101,6 +109,7 @@ body{
   height: auto;
   border: 1px solid black;
   box-shadow: 10px 10px;
+  margin-top: 50%;
 }
 
 .card__content{
