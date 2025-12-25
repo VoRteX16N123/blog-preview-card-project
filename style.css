@@ -90,7 +90,7 @@ body{
   flex-direction: column;
   min-height: 85vh;
   place-content: center;
-  min-height: 100vh;
+  min-height: 85vh;
   margin: 1rem;
   align-items: center;
   justify-content: center;
