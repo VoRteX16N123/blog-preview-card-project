@@ -8,7 +8,6 @@
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
 - [Author](#author)
 
@@ -37,7 +36,7 @@ This is my solution to the [Blog preview card challenge on Frontend Mentor](http
 
 ### What I learned
 
-I learned how to use fexbox better with this challenge. The use of flexbox can be seen in the code snippet below: 
+I learned how to use flexbox better with this challenge. The use of flexbox can be seen in the code snippet below: 
 
 ```css
 .flexbox{
